@@ -1,5 +1,3 @@
-Hotwl Review System
-
 # HARMONIA: Hybrid Sentiment-Numeric Hotel Rating Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
